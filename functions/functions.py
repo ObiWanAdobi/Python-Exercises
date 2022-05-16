@@ -26,4 +26,4 @@ while(numberCorrect == False):
     except:
         print("Sorry but that is not an correct Integer ")
         numberCorrect=False
-print("Number Insertet is " + str(numb))
+print("Number Insertet is " + str(numb))    
