@@ -13,8 +13,8 @@ Part I: Programming Basics
 2(Done) Flow Control
 3(Done) Functions
 4(Done) Lists
-5 Dictionaries
-6 Manipulating Strings
+5(Done) Dictionaries
+6(Done) Manipulating Strings
 
 
 Part II: Automation Tasks
