@@ -1,0 +1,20 @@
+Review of Regex Symbols: 
+
+The ? matches 
+The * matches 
+The + matches 
+The {n} matches 
+The {n,} matches 
+The {,m} matches 
+The {n,m} matches 
+{n,m}? or *? or +? 
+^spam means 
+spam$ means 
+The . matches 
+\d, \w, and \s match
+
+\D, \W, and \S match 
+
+[abc] matches 
+
+[^abc] matches any character that isn’t between the brackets.
